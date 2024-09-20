@@ -1,0 +1,14 @@
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\bin\Debug\net8.0\AgenciaDeViaje.exe
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\bin\Debug\net8.0\AgenciaDeViaje.deps.json
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\bin\Debug\net8.0\AgenciaDeViaje.runtimeconfig.json
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\bin\Debug\net8.0\AgenciaDeViaje.dll
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\bin\Debug\net8.0\AgenciaDeViaje.pdb
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.AssemblyInfoInputs.cache
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.AssemblyInfo.cs
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.csproj.CoreCompileInputs.cache
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.dll
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\refint\AgenciaDeViaje.dll
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.pdb
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\AgenciaDeViaje.genruntimeconfig.cache
+C:\Users\jsaldias.FRSN\Desktop\nacho\AgenciaDeViaje\AgenciaDeViaje\obj\Debug\net8.0\ref\AgenciaDeViaje.dll
